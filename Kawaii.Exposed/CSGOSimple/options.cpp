@@ -1,0 +1,115 @@
+#include "Options.hpp"
+
+Config g_Options;
+bool   g_Unload = false;
+bool sendPacket = true;
+
+bool meme = false;
+bool aimstepInProgress = false;
+QAngle LastTickViewAngles = QAngle(0, 0, 0);
+QAngle ChamFakeAngle = QAngle(0, 0, 0);
+bool aaSide = false;
+
+bool updatedColors = false;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

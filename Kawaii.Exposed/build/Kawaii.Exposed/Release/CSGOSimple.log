@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+  hooks.cpp
+c:\users\carll\downloads\kawaii.exposed\kawaii.exposed cheat(legit)\kawaii.exposed\csgosimple\backtracking.h(108): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+  1 of 3714 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CSGOSimple.vcxproj -> C:\Users\Carll\Downloads\Kawaii.Exposed\Kawaii.Exposed Cheat(LEGIT)\Kawaii.Exposed\CSGOSimple\..\..\Output\kawaii.dll
